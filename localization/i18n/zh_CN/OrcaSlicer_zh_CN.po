@@ -3146,12 +3146,12 @@ msgstr "已发送的任务"
 msgid "Edit multiple printers"
 msgstr "编辑多个打印机"
 
-msgid "Select connected printers (0/6)"
-msgstr "选择已连接的打印机 (0/6)"
+msgid "Select connected printers (0/16)"
+msgstr "选择已连接的打印机 (0/16)"
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
-msgstr "选择已连接的打印机 (%d/6)"
+msgid "Select Connected Printers (%d/16)"
+msgstr "选择已连接的打印机 (%d/16)"
 
 #, c-format, boost-format
 msgid "The maximum number of printers that can be selected is %d"
@@ -3185,8 +3185,8 @@ msgid "Actions"
 msgstr "动作"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
-msgstr "请在此处选择您想管理的设备（最多6个设备）。"
+"Please select the devices you would like to manage here (up to 16 devices)"
+msgstr "请在此处选择您想管理的设备（最多16个设备）。"
 
 msgid "Add"
 msgstr "添加"

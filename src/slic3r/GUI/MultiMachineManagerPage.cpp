@@ -397,7 +397,7 @@ MultiMachineManagerPage::MultiMachineManagerPage(wxWindow* parent)
     m_tip_text = new wxStaticText(m_main_panel, wxID_ANY, wxEmptyString, wxDefaultPosition, wxDefaultSize, wxALIGN_CENTER);
     m_tip_text->SetMinSize(wxSize(FromDIP(DEVICE_ITEM_MAX_WIDTH), -1));
     m_tip_text->SetMaxSize(wxSize(FromDIP(DEVICE_ITEM_MAX_WIDTH), -1));
-    m_tip_text->SetLabel(_L("Please select the devices you would like to manage here (up to 6 devices)"));
+    m_tip_text->SetLabel(_L("Please select the devices you would like to manage here (up to 16 devices)"));
     m_tip_text->SetForegroundColour(wxColour(50, 58, 61));
     m_tip_text->SetFont(::Label::Head_20);
     m_tip_text->Wrap(-1);

@@ -3323,12 +3323,12 @@ msgstr "Отправленные задания"
 msgid "Edit multiple printers"
 msgstr "Редактирование нескольких принтеров"
 
-msgid "Select connected printers (0/6)"
-msgstr "Выберите подключённые принтеры (%d/6)"
+msgid "Select connected printers (0/16)"
+msgstr "Выберите подключённые принтеры (%d/16)"
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
-msgstr "Выберите подключённые принтеры (%d/6)"
+msgid "Select Connected Printers (%d/16)"
+msgstr "Выберите подключённые принтеры (%d/16)"
 
 #, c-format, boost-format
 msgid "The maximum number of printers that can be selected is %d"
@@ -3362,9 +3362,9 @@ msgid "Actions"
 msgstr "Действия"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
+"Please select the devices you would like to manage here (up to 16 devices)"
 msgstr ""
-"Пожалуйста, выберите устройства, которыми хотите управлять (до 6 устройств)"
+"Пожалуйста, выберите устройства, которыми хотите управлять (до 16 устройств)"
 
 msgid "Add"
 msgstr "Добавить"

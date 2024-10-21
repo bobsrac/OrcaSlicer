@@ -3340,11 +3340,11 @@ msgstr "Aufgabe gesendet"
 msgid "Edit multiple printers"
 msgstr "Mehrere Drucker bearbeiten"
 
-msgid "Select connected printers (0/6)"
+msgid "Select connected printers (0/16)"
 msgstr ""
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
+msgid "Select Connected Printers (%d/16)"
 msgstr ""
 
 #, c-format, boost-format
@@ -3380,9 +3380,9 @@ msgid "Actions"
 msgstr "Aktionen"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
+"Please select the devices you would like to manage here (up to 16 devices)"
 msgstr ""
-"Wählen Sie hier die Geräte aus, die Sie verwalten möchten (bis zu 6 Geräte)"
+"Wählen Sie hier die Geräte aus, die Sie verwalten möchten (bis zu 16 Geräte)"
 
 msgid "Add"
 msgstr "Hinzufügen"

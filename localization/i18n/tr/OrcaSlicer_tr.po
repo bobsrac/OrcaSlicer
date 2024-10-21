@@ -3267,12 +3267,12 @@ msgstr "Görev Gönderildi"
 msgid "Edit multiple printers"
 msgstr "Birden fazla yazıcıyı düzenleme"
 
-msgid "Select connected printers (0/6)"
-msgstr "Bağlı yazıcıları seçin (0/6)"
+msgid "Select connected printers (0/16)"
+msgstr "Bağlı yazıcıları seçin (0/16)"
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
-msgstr "Bağlı Yazıcıları Seçin (%d/6)"
+msgid "Select Connected Printers (%d/16)"
+msgstr "Bağlı Yazıcıları Seçin (%d/16)"
 
 #, c-format, boost-format
 msgid "The maximum number of printers that can be selected is %d"
@@ -3306,8 +3306,8 @@ msgid "Actions"
 msgstr "İşlemler"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
-msgstr "Lütfen buradan yönetmek istediğiniz cihazları seçin (en fazla 6 cihaz)"
+"Please select the devices you would like to manage here (up to 16 devices)"
+msgstr "Lütfen buradan yönetmek istediğiniz cihazları seçin (en fazla 16 cihaz)"
 
 msgid "Add"
 msgstr "Ekle"

@@ -3227,12 +3227,12 @@ msgstr "Task Sent"
 msgid "Edit multiple printers"
 msgstr "여러 프린터 편집"
 
-msgid "Select connected printers (0/6)"
-msgstr "연결된 프린터 선택 (0/6)"
+msgid "Select connected printers (0/16)"
+msgstr "연결된 프린터 선택 (0/16)"
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
-msgstr "연결된 프린터 선택 (%d/6)"
+msgid "Select Connected Printers (%d/16)"
+msgstr "연결된 프린터 선택 (%d/16)"
 
 #, c-format, boost-format
 msgid "The maximum number of printers that can be selected is %d"
@@ -3266,8 +3266,8 @@ msgid "Actions"
 msgstr "동작"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
-msgstr "여기에서 관리할 장치를 선택하세요(최대 6개 장치)"
+"Please select the devices you would like to manage here (up to 16 devices)"
+msgstr "여기에서 관리할 장치를 선택하세요(최대 16개 장치)"
 
 msgid "Add"
 msgstr "추가"

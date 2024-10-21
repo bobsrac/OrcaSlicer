@@ -3298,11 +3298,11 @@ msgstr "Завдання надіслане"
 msgid "Edit multiple printers"
 msgstr "Редагувати кілька принтерів"
 
-msgid "Select connected printers (0/6)"
+msgid "Select connected printers (0/16)"
 msgstr ""
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
+msgid "Select Connected Printers (%d/16)"
 msgstr ""
 
 #, c-format, boost-format
@@ -3337,9 +3337,9 @@ msgid "Actions"
 msgstr "Дії"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
+"Please select the devices you would like to manage here (up to 16 devices)"
 msgstr ""
-"Будь ласка, виберіть тут пристрої, якими ви хочете керувати (до 6 пристроїв)"
+"Будь ласка, виберіть тут пристрої, якими ви хочете керувати (до 16 пристроїв)"
 
 msgid "Add"
 msgstr "Додати"

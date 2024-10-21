@@ -3310,12 +3310,12 @@ msgstr "Wysłane do druku"
 msgid "Edit multiple printers"
 msgstr "Edycja drukarek"
 
-msgid "Select connected printers (0/6)"
-msgstr "Wybierz podłączone drukarki (0/6)"
+msgid "Select connected printers (0/16)"
+msgstr "Wybierz podłączone drukarki (0/16)"
 
 #, c-format, boost-format
-msgid "Select Connected Printers (%d/6)"
-msgstr "Wybierz Podłączone Drukarki (%d/6)"
+msgid "Select Connected Printers (%d/16)"
+msgstr "Wybierz Podłączone Drukarki (%d/16)"
 
 #, c-format, boost-format
 msgid "The maximum number of printers that can be selected is %d"
@@ -3349,9 +3349,9 @@ msgid "Actions"
 msgstr "Działania"
 
 msgid ""
-"Please select the devices you would like to manage here (up to 6 devices)"
+"Please select the devices you would like to manage here (up to 16 devices)"
 msgstr ""
-"Proszę wybrać urządzenia, którymi chciałbyś tutaj zarządzać (do 6 urządzeń)"
+"Proszę wybrać urządzenia, którymi chciałbyś tutaj zarządzać (do 16 urządzeń)"
 
 msgid "Add"
 msgstr "Dodaj"
